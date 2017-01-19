@@ -1,4 +1,4 @@
-# CSC4996
+*# CSC4996*
 Senior Project Capstone
 Deployment Guide
 Install Ubuntu Linux Distro
