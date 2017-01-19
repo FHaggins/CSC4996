@@ -1,6 +1,6 @@
-*# CSC4996*
-Senior Project Capstone
-Deployment Guide
+1.# CSC4996
+2.Senior Project Capstone
+3.Deployment Guide
 Install Ubuntu Linux Distro
 Install Apache and MySQL
 Install PHP
