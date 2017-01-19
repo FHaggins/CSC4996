@@ -5,4 +5,5 @@ Install Ubuntu Linux Distro
 Install Apache and MySQL
 Install PHP
 Install MySQL Workbench from Software Centre
-Go to 
+Go to MySQL Workbench and start a new schema
+
